@@ -1,1 +1,3 @@
 git is a version control system
+
+it is used to tracking tha history of changes
